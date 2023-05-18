@@ -1,0 +1,9 @@
+ul {
+    list-style-type: circle;
+    border: 2px solid blue;
+    background-color: lightblue;
+  }
+  li {
+    margin: 5px;
+    background-color: lightyellow;
+  }
